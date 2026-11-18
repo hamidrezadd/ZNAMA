@@ -1,0 +1,6 @@
+{
+  "name": "ZNAMA | زد نما",
+  "description": "پلتفرم پیشرو در نمایش آثار مستقل، مستندها و روایت‌های ناگفته سینمای ایران و جهان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
